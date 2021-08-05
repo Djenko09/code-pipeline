@@ -55,6 +55,7 @@ variable "codestar_connector_credentials" {
   type = string
 }
 
-variable "testestes"{
+variable "xpto" {
   type = string
+  default = "5"
 }
